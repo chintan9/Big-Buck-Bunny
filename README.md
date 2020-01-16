@@ -41,8 +41,6 @@ How it started
 
 As a follow-up to the successful project Orange’s “Elephants Dream”, the Blender Foundation initiated another open movie project. Again a small team (7) of the best 3D artists and developers in the Blender community have been invited to come together to work in Amsterdam from October 2007 until April 2008 on completing a short 3D animation movie. The team members will get a great studio facility and housing in Amsterdam, all travel costs reimbursed, and a fee sufficient to cover all expenses during the period.
 
-po2_announcement.gif
-
 The creative concept of “Peach” was completely different as for “Orange”. This time it is “funny and furry”!
 
 The Blender Foundation and Blender community have been the main financiers for Peach. As for the previous open movie, a pre-sale campaign to purchase the DVD set in advance will be organized.
